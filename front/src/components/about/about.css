@@ -1,0 +1,24 @@
+/* .about{
+  width: 80%;
+  margin: 0 auto ;
+  box-sizing: border-box;
+}
+h1{
+font-family: montserrat;
+font-size:5em ;
+font-weight: bolder;
+}
+p{
+  text-align: justify;
+  font-family:montserrat;
+  font-size: 1.7em;
+  width: 90%;
+  color: black;
+  line-height: 40px;
+}
+p::first-letter {
+  font-style: oblique;
+  font-size:3.5em;
+  font-weight: bold;
+  color:rgb(28, 85, 42);
+} */
